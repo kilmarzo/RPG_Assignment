@@ -1,0 +1,6 @@
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\obj\Debug\net6.0\ApplicationTests.csproj.AssemblyReference.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\obj\Debug\net6.0\ApplicationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\obj\Debug\net6.0\ApplicationTests.AssemblyInfoInputs.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\obj\Debug\net6.0\ApplicationTests.AssemblyInfo.cs
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\ApplicationTests\obj\Debug\net6.0\ApplicationTests.csproj.CoreCompileInputs.cache

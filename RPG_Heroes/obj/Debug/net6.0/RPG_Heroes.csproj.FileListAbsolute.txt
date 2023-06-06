@@ -1,0 +1,15 @@
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.csproj.AssemblyReference.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.AssemblyInfoInputs.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.AssemblyInfo.cs
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.csproj.CoreCompileInputs.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\bin\Debug\net6.0\RPG_Heroes.exe
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\bin\Debug\net6.0\RPG_Heroes.deps.json
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\bin\Debug\net6.0\RPG_Heroes.runtimeconfig.json
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\bin\Debug\net6.0\RPG_Heroes.dll
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\bin\Debug\net6.0\RPG_Heroes.pdb
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.dll
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\refint\RPG_Heroes.dll
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.pdb
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\RPG_Heroes.genruntimeconfig.cache
+C:\Users\saide\Desktop\EXPERIS ACADEMY\DOTNET\RPG_Heroes\RPG_Heroes\obj\Debug\net6.0\ref\RPG_Heroes.dll
