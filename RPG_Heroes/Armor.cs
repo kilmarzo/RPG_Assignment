@@ -19,6 +19,7 @@ namespace RPG_Heroes
         public HeroAttribute ArmorAttribute { get; }
 
         public Armor(string name, int requiredLevel, ArmorType armorType, HeroAttribute armorAttribute)
+            // Calls the base constructor (Item) and passes name, requiredLevel, and the slot based on armorType.
             : base(name, requiredLevel, GetArmorSlot(armorType))
         {
             ArmorType = armorType;
@@ -27,8 +28,10 @@ namespace RPG_Heroes
 
         private static Slot GetArmorSlot(ArmorType armorType)
         {
+            // Switch statement that checks the type of the ArmorType.
             switch (armorType)
             {
+                // If the armor type is Cloth, Leather, Mail, or Plate, it goes to the Body slot.
                 case ArmorType.Cloth:
                     return Slot.Body;
                 case ArmorType.Leather:
