@@ -14,11 +14,12 @@ namespace RPG_Heroes
 
         public HeroAttribute(int strength, int dexterity, int intelligence)
         {
-            Strength = strength;
-            Dexterity = dexterity;
-            Intelligence = intelligence;
+            Strength = strength; // Sets the Strength property
+            Dexterity = dexterity; // Sets the Dexterity property
+            Intelligence = intelligence; // Sets the Intelligence property
         }
 
+        // Overload for the "+" operator for HeroAttribute objects
         public static HeroAttribute operator +(HeroAttribute attribute1, HeroAttribute attribute2)
         {
             int combinedStrength = attribute1.Strength + attribute2.Strength;
