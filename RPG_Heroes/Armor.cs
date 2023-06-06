@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +19,7 @@ namespace RPG_Heroes
         public HeroAttribute ArmorAttribute { get; }
 
         public Armor(string name, int requiredLevel, ArmorType armorType, HeroAttribute armorAttribute)
-            
+            // Calls the base constructor (Item) and passes name, requiredLevel, and the slot based on armorType.
             : base(name, requiredLevel, GetArmorSlot(armorType))
         {
             ArmorType = armorType;
