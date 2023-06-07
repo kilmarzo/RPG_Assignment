@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.CompilerServices;
+
+[assembly: InternalsVisibleTo("ApplicationTests")]
+
 
 namespace RPG_Heroes
 {
@@ -74,7 +78,7 @@ namespace RPG_Heroes
                     throw new InvalidEquipmentException("Invalid weapon type for your class.");
                 }
             }
-            // If the item is not a weapon (i.e. it's armor), check if the hero can equip it.
+            // If the item is not a weapon (i.e. it's armor) check if the hero can equip it
             else
             {
                 if (CanEquipArmor(item as Armor))
