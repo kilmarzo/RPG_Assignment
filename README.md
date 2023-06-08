@@ -36,7 +36,7 @@ Heroes can equip various Weapons and Armor, which impact their overall combat st
 To get started, clone the repository to your local machine:
 
 bash
-git clone https://github.com/kilmarzo/RPG-Heroes.git
+git clone https://github.com/kilmarzo/RPG_Assignment.git
 
 Then, compile and run the application using an IDE of your choice.
 
