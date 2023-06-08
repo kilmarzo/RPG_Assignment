@@ -65,7 +65,7 @@ namespace ApplicationTests
             Assert.Throws<InvalidEquipmentException>(() => hero.Equip(weapon));
         }
 
-        // More tests for armor, attribute calculations, and damage go here...
+        
     }
 
 }
